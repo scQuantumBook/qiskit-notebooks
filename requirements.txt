@@ -1,1 +1,1 @@
-qiskit[visualization]==0.28.0
+qiskit[visualization]==0.31.0
