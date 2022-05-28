@@ -1,1 +1,2 @@
 qiskit[visualization]==0.31.0
+kaleidoscope==0.0.13
