@@ -1,3 +1,4 @@
+pylatexenc==2.8
+matplotlib==3.3.4
 qiskit==0.36.2
 kaleidoscope==0.0.13
-matplotlib==3.3.4
